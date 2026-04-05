@@ -1,3 +1,4 @@
+# All rights for originle code to Clay Sanders, all rights reserved GNU Licence, 2026
 import tkinter as tk
 from tkinter import messagebox, simpledialog
 import sqlite3
